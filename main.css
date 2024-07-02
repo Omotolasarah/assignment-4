@@ -1,0 +1,18 @@
+body{
+    border:2px solid blue;
+}
+.new{
+    font-weight: 400;
+}
+.night{
+    margin-right: 10px;
+}
+.image{
+    width:80% ;
+}
+.para{
+    font-size: 2em;
+}
+.paraone{
+    font-size:20px;
+}
